@@ -26,6 +26,8 @@ VakifBank GET 7/24 MPI ve VPOS 7/24 eklendi ama test ortami olmadigi icin test e
   - ext-json
   - ext-openssl
   - ext-SimpleXML
+  - ext-Redis
+
 
 ### Kurulum
 Test sunucunuz üzerinde;
